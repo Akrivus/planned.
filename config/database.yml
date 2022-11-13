@@ -1,0 +1,18 @@
+default: &default
+  adapter: sqlite3
+  pool: 5
+  timeout: 5000
+
+development:
+  <<: *default
+  database: db/development
+
+test:
+  <<: *default
+  database: db/test
+
+production:
+  <<: *default
+  database: db/production
+  url: <%= ENV['DATABASE_URL'] %>
+  adapter: postgresql

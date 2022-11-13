@@ -16,3 +16,8 @@ As a software engineer and a simp, I know what I must do next.
 - Push notifications.
 - Twilio integration for SMS.
 - Basic forum functionality?
+
+## References
+- [first this](https://dev.to/coorasse/rails-7-bootstrap-5-and-importmaps-without-nodejs-4g8)
+- [then this](https://dev.to/coorasse/the-progressive-rails-app-46ma)
+- [also this](https://guides.rubyonrails.org/i18n.html)

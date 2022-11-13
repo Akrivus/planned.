@@ -1,0 +1,29 @@
+@import "font-awesome";
+@import "bootstrap";
+
+html, body {
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+body {
+  background: linear-gradient(45deg, #ffdfd3, #957dad, #d291bc);
+  background-size: 100% 600%;
+  animation: flow 30s ease infinite;
+}
+
+@keyframes flow {
+  0%   { background-position: 0%   0%; }
+  50%  { background-position: 0% 100%; }
+  100% { background-position: 0%   0%; }
+}
+
+.fullscreen {
+  min-height: 100vh;
+}
+
+.splash {
+  text-align: center;
+  text-shadow: 1px 1px 3px black; 
+  color: white;
+}

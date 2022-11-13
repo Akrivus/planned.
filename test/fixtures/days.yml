@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  general_feeling: 1
+  general_pain_level: 1
+  general_pain_area: 1
+  general_problems: 1
+  discharge_color: 1
+  discharge_flow: 1
+  discharge_texture: 1
+  discharge_odor: 1
+  note: MyString
+  year: 1
+  month: 1
+  day: 1
+
+two:
+  user: two
+  general_feeling: 1
+  general_pain_level: 1
+  general_pain_area: 1
+  general_problems: 1
+  discharge_color: 1
+  discharge_flow: 1
+  discharge_texture: 1
+  discharge_odor: 1
+  note: MyString
+  year: 1
+  month: 1
+  day: 1

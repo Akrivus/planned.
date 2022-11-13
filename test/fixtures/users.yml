@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phone_number: MyString
+  enc_password: MyString
+  enc_password_code: MyString
+  accepts_terms: false
+  access_token: MyString
+  special_word: MyString
+  spirit_animal: MyString
+  favorite_color: 1
+  time_zone: MyString
+  last_sign_in_ip: MyString
+  last_sign_in_device: MyString
+  last_sign_in_at: 2022-11-11 15:08:54
+
+two:
+  phone_number: MyString
+  enc_password: MyString
+  enc_password_code: MyString
+  accepts_terms: false
+  access_token: MyString
+  special_word: MyString
+  spirit_animal: MyString
+  favorite_color: 1
+  time_zone: MyString
+  last_sign_in_ip: MyString
+  last_sign_in_device: MyString
+  last_sign_in_at: 2022-11-11 15:08:54
