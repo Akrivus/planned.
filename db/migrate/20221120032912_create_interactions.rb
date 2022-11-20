@@ -1,7 +1,7 @@
-class CreateMedications < ActiveRecord::Migration[7.0]
+class CreateInteractions < ActiveRecord::Migration[7.0]
   def change
-    create_table :medications do |t|
-      t.references :day, null: false, index: true, foreign_key: true
+    create_table :interactions do |t|
+      t.references :day, null: false, foreign_key: true
       t.integer :category
       t.integer :feeling_before
       t.integer :feeling_after

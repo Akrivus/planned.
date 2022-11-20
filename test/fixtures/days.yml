@@ -5,7 +5,7 @@ one:
   general_feeling: 1
   general_pain_level: 1
   general_pain_area: 1
-  general_problems: 1
+  general_symptoms: 1
   discharge_color: 1
   discharge_flow: 1
   discharge_texture: 1
@@ -20,7 +20,7 @@ two:
   general_feeling: 1
   general_pain_level: 1
   general_pain_area: 1
-  general_problems: 1
+  general_symptoms: 1
   discharge_color: 1
   discharge_flow: 1
   discharge_texture: 1

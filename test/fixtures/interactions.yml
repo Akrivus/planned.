@@ -9,7 +9,7 @@ one:
   dosage: 9.99
   dosage_unit: 1
   note: MyString
-  consumed_at: 2022-11-11 15:13:36
+  consumed_at: 2022-11-19 20:29:12
 
 two:
   day: two
@@ -20,4 +20,4 @@ two:
   dosage: 9.99
   dosage_unit: 1
   note: MyString
-  consumed_at: 2022-11-11 15:13:36
+  consumed_at: 2022-11-19 20:29:12
