@@ -1,4 +1,4 @@
 class User < ApplicationRecord
-  devise %i[database_authenticatable registerable recoverable rememberable validatable confirmable trackable]
+  devise :database_authenticatable, :registerable, :recoverable, :rememberable, :validatable, :confirmable, :lockable, :trackable
   rolify
 end
